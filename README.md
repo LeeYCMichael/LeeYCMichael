@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <p>
   <h3> Socials <h3>
-	<a href="https://www.linkedin.com/in/michael-lee-b7072611b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/michael-lee-b7072611b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp
+	<a href="mailto:michael.yewchuan@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
 <hr>
